@@ -1,0 +1,9 @@
+﻿  FileDePatient.cpp
+  HospitalSystem.cpp
+  main.cpp
+  Patient.cpp
+  PatientManager.cpp
+C:\Users\michael\Downloads\TP1_KOMI_MICHAEL_IVAN\TP1_KOMI_MICHAEL_IVAN\PatientManager.cpp(60,74): warning C4267: 'return' : conversion de 'size_t' en 'int', perte possible de données
+  Génération de code en cours...
+  LINK : C:\Users\michael\Downloads\TP1_KOMI_MICHAEL_IVAN\TP1_KOMI_MICHAEL_IVAN\x64\Debug\TP1_KOMI_MICHAEL_IVAN.exe introuvable ou non généré par la dernière édition de liens incrémentielle ; édition de liens complète en cours
+  TP1_KOMI_MICHAEL_IVAN.vcxproj -> C:\Users\michael\Downloads\TP1_KOMI_MICHAEL_IVAN\TP1_KOMI_MICHAEL_IVAN\x64\Debug\TP1_KOMI_MICHAEL_IVAN.exe
