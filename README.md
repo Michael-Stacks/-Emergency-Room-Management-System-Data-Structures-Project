@@ -47,9 +47,4 @@ If a patient's turns reach zero, they are marked as untreated
 
 ![Console de débogage Microsoft Visual Studio 2025-02-12 22_41_47](https://github.com/user-attachments/assets/1ad42106-b4d8-4992-8669-06aa43a813e9)
 
-![TP1_KOMI_MICHAEL_IVAN - Microsoft Visual Studio 2025-02-12 22_42_03](https://github.com/user-attachments/assets/c80d8c8f-8c6d-429a-b9e9-3cfc399c752e)
-
-![TP1_KOMI_MICHAEL_IVAN - Microsoft Visual Studio 2025-02-12 22_42_24](https://github.com/user-attachments/assets/edb93408-f9b4-44a0-9451-7f14a57b1916)
-
-![TP1_KOMI_MICHAEL_IVAN - Microsoft Visual Studio 2025-02-12 22_42_39](https://github.com/user-attachments/assets/5ef63c16-eeb2-4718-a148-6edaa0439647)
 
